@@ -15,7 +15,7 @@
 ## Usage
 
 ```
-# xinlang_stock_reviews_spider
+# xueqiu_stock_reviews_spider
 
 scrapy crawl xueqiu
 ```
